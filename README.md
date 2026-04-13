@@ -1,4 +1,5 @@
 # Maritime Intelligence Dashboard
+![Dashboard](maritime intelligence dashboard.jpg)
 
 ## Project Overview
 This project analyzes maritime logistics performance using an interactive dashboard.  
