@@ -1,5 +1,5 @@
 # Maritime Intelligence Dashboard
-![Dashboard](maritime intelligence dashboard.jpg)
+Dashboard(maritime intelligence dashboard.jpg)
 
 ## Project Overview
 This project analyzes maritime logistics performance using an interactive dashboard.  
@@ -82,4 +82,4 @@ This dashboard highlights critical inefficiencies in maritime operations, partic
 **Agbanoma Williams**  
 Data Analyst | Power BI | Excel  
 📧 Email: eagbanoma@gmail.com  
-🔗 GitHub: https://github.com/YOURUSERNAME
+🔗 GitHub: https://github.com/Ewoma-alt
