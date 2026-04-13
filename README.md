@@ -7,7 +7,6 @@ It focuses on vessel movement efficiency, identifying operational bottlenecks, a
 
 The goal is to provide actionable insights that improve efficiency, reduce delays, and optimize port operations.
 
----
 
 ## Objectives
 - Monitor total vessel movement performance
@@ -16,7 +15,6 @@ The goal is to provide actionable insights that improve efficiency, reduce delay
 - Track monthly performance trends
 - Highlight areas requiring process improvement
 
----
 
 ## Dataset Description
 The dataset includes maritime operational data such as:
@@ -28,13 +26,11 @@ The dataset includes maritime operational data such as:
 
 *Dataset used for analytical and visualization purposes.*
 
----
 
 ## Tools Used
 - **Power BI** – Dashboard development, DAX measures, data modeling  
 - **Excel** – Data cleaning and preprocessing  
 
----
 
 ## Key KPIs
 - **Total Movement:** 15K  
@@ -42,7 +38,6 @@ The dataset includes maritime operational data such as:
 - **At Risk:** 1,838 (12%)  
 - **Bottleneck:** 6,049 (40%)  
 
----
 
 ## Key Insights
 - A significant portion of movements (**40%**) fall into the bottleneck category, indicating major operational inefficiencies.
@@ -51,7 +46,6 @@ The dataset includes maritime operational data such as:
 - Certain terminals consistently underperform, contributing heavily to delays.
 - Average bottleneck duration varies monthly, with peaks indicating periods of congestion or operational strain.
 
----
 
 ## Visualizations Included
 - KPI summary cards for movement performance
@@ -62,7 +56,6 @@ The dataset includes maritime operational data such as:
 - Least performing terminals
 - Bottleneck contribution by terminal
 
----
 
 ## Business Recommendations
 - Investigate root causes of high bottleneck rates across terminals.
@@ -71,12 +64,9 @@ The dataset includes maritime operational data such as:
 - Improve operational workflows to increase “On Target” performance.
 - Use historical trends to forecast and prevent future bottlenecks.
 
----
-
 ## Conclusion
 This dashboard highlights critical inefficiencies in maritime operations, particularly the high rate of bottlenecks. By leveraging these insights, stakeholders can take proactive steps to improve operational performance and reduce delays.
 
----
 
 ## Author
 **Agbanoma Williams**  
